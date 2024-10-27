@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 👯 I’m looking to collaborate on **React JS with springboot projects**
 
 - 💬 Ask me about **Data Structure and Algorithms**
 

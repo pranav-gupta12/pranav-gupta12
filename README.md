@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav-gupta12" alt="pranav-gupta12" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Terraform, Kubernetes, CI/CD**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **ClousOps tools**
 
-- 👯 I’m looking to collaborate on **React JS with springboot projects**
+- 👯 I’m looking to collaborate on **RBackend and DevOps**
 
 - 💬 Ask me about **Data Structure and Algorithms**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Backend developer and DevOps enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-gupta12&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-gupta12" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ClousOps tools**
 
-- 👯 I’m looking to collaborate on **RBackend and DevOps**
+- 👯 I’m looking to collaborate on **Backend and DevOps**
 
 - 💬 Ask me about **Data Structure and Algorithms**
 

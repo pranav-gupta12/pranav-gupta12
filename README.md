@@ -60,4 +60,4 @@ Passionate about solving backend and cloud challenges, I’ve also built RESTful
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-gupta12&show_icons=true&locale=en" alt="pranav-gupta12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-gupta12&" alt="pranav-gupta12" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-gupta12&" alt="pranav-gupta12" /></p> -->

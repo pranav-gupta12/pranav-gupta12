@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
-<h3 align="center">DevOps & Cloud Engineer | Backend Developer\</h3>
+<h3 align="center">DevOps & Cloud Engineer | Backend Developer</h3>
 <p align="center">
 I’m a DevOps & Cloud Engineer, graduated from IIIT Bhopal (2025).  
 I have hands-on experience in building scalable infrastructure, automating deployments, and designing CI/CD pipelines with tools like Terraform, ArgoCD, Kubernetes, and GitHub Actions.  
